@@ -82,7 +82,7 @@ If you have any feature suggestions, please create an issue with detailed inform
 
 ### 🔗 Social links
 **Instagram:** https://instagram.com/retromusicapp  
-**Twitter:** https://twitter.com/retromusicapp/
+**Telegram:** https://twitter.com/retromusicapp/
 
 ### 🗂️ License
 
