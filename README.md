@@ -11,11 +11,11 @@
 
 ## ⚠ Join [DD Music Player](https://t.me/retromusiclog) on Telegram for important updates.
 
-## Screenshots
-### App Themes
-| <img src="screenshots/home.jpeg" width="200"/> | <img src="screenshots/home_dark.jpeg" width="200"/> | <img src="screenshots/home_black.jpeg" width="200"/> |
-|:---:|:---:|:---:|
-|Clearly white| Kinda dark | Just black|
+[//]: <> ## Screenshots
+[//]: <> ### App Themes
+[//]: <> | <img src="screenshots/home.jpeg" width="200"/> | <img src="screenshots/home_dark.jpeg" width="200"/> | <img src="screenshots/home_black.jpeg" width="200"/> |
+[//]: <> |:---:|:---:|:---:|
+[//]: <> |Clearly white| Kinda dark | Just black|
 
 ### Player screen
 | <img src="screenshots/home.jpeg" width="200"/>| <img src="screenshots/list.jpeg" width="200"/>| <img src="screenshots/albums.jpeg" width="200"/>| <img src="screenshots/settings.jpeg" width="200"/>|
@@ -84,7 +84,7 @@ If you have any feature suggestions, please create an issue with detailed inform
 **Instagram:** https://instagram.com/retromusicapp  
 **Twitter:** https://twitter.com/retromusicapp/
 
-### 🗂️ License
+[//]: <> ### 🗂️ License
 
 DD Music Player is released under the MIT License 
 , which can be found [here](LICENSE.md)
