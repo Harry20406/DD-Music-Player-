@@ -1,4 +1,4 @@
-# Retro Music Player 🎵
+# DD Music Player 🎵
 
 [![Generic badge](https://img.shields.io/badge/Platform-Android-green.svg)](https://github.com/Harry20406/DD-Music-Player-)
 [![Generic badge](https://img.shields.io/badge/minSdkVersion-21-green.svg)](https://github.com/Harry20406/DD-Music-Player-)
