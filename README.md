@@ -3,7 +3,7 @@
 [![Generic badge](https://img.shields.io/badge/Platform-Android-green.svg)](https://github.com/Harry20406/DD-Music-Player-)
 [![Generic badge](https://img.shields.io/badge/minSdkVersion-21-green.svg)](https://github.com/Harry20406/DD-Music-Player-)
 [![Generic badge](https://img.shields.io/badge/Download-Google_Play-green.svg)](https://github.com/Harry20406/DD-Music-Player-)
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/Harry20406/DD-Music-Player-/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/Harry20406/DD-Music-Player-/blob/main/LICENSE)
 <!--[![Telegram Follow](https://img.shields.io/twitter/follow/DDmusicplayer?style=social)](https://twitter.com/retromusicapp)-->
 
 
