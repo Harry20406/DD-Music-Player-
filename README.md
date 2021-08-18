@@ -1,15 +1,15 @@
 # Retro Music Player 🎵
 
-[![Generic badge](https://img.shields.io/badge/Platform-Android-green.svg)](https://github.com/Harry20406/DD-Music-Player)
-[![Generic badge](https://img.shields.io/badge/minSdkVersion-21-green.svg)](https://github.com/Harry20406/DD-Music-Player)
-[![Generic badge](https://img.shields.io/badge/Download-Google_Play-green.svg)](https://github.com/Harry20406/DD-Music-Player)
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/RetroMusicPlayer/RetroMusicPlayer/blob/master/LICENSE.md)
+[![Generic badge](https://img.shields.io/badge/Platform-Android-green.svg)](https://github.com/Harry20406/DD-Music-Player-)
+[![Generic badge](https://img.shields.io/badge/minSdkVersion-21-green.svg)](https://github.com/Harry20406/DD-Music-Player-)
+[![Generic badge](https://img.shields.io/badge/Download-Google_Play-green.svg)](https://github.com/Harry20406/DD-Music-Player-)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/Harry20406/DD-Music-Player-/blob/main/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/retromusicapp?style=social)](https://twitter.com/retromusicapp)
-[![Crowdin](https://badges.crowdin.net/retromusicplayer/localized.svg)](https://crowdin.com/project/retromusicplayer)
+
 
 ## 🆕 Material Design music player for Android music lovers 
 
-## ⚠ Join [@retromusiclog](https://t.me/retromusiclog) on Telegram for important updates.
+## ⚠ Join [DD Music Player](https://t.me/retromusiclog) on Telegram for important updates.
 
 ## Screenshots
 ### App Themes
@@ -73,24 +73,22 @@ favorite songs. No other music player has this feature.
 We are trying our best to bring you the best user experience. The app is regularly being updated for bug fixes and new features.
 
 ### ❓ FAQ
-Please read the FAQ [here](https://github.com/RetroMusicPlayer/RetroMusicPlayer/blob/master/FAQ.md)
+Please read the FAQ [here](https://github.com/Harry20406/DD-Music-Player-/blob/main/FAQ.md)
 
 In any case, you find or notice any bugs please report them by
-sending us an [e-mail](mailto:retromusicapp@gmail.com). We will fix bugs as soon as
+sending us an [Instagram](). We will fix bugs as soon as
 possible.
 If you have any feature suggestions, please create an issue with detailed information.
 
 ### 🔗 Social links
-**Telegram:** https://t.me/retromusicapp  
 **Instagram:** https://instagram.com/retromusicapp  
-**Pinterest:** https://pinterest.com/retromusicapp/  
 **Twitter:** https://twitter.com/retromusicapp/
 
 ### 🗂️ License
 
-Retro Music Player is released under the GNU General Public License v3.0
-(GPLv3), which can be found [here](LICENSE.md)
+DD Music Player is released under the MIT License 
+, which can be found [here](LICENSE.md)
 
 
->Please note: Retro Music Player is an offline music player app. It
+>Please note: DD Music Player is an offline music player app. It
 >doesn't support music downloading or online music streaming.
