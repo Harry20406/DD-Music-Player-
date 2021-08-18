@@ -7,15 +7,15 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/DDmusicplayer?style=social)](https://twitter.com/retromusicapp)
 
 
-## 🆕 Material Design music player for Android music lovers 
+## 🆕 Material Design music player for Android music lovers
 
 ## ⚠ Join [DD Music Player](https://t.me/retromusiclog) on Telegram for important updates.
 
-[//]: <> ## Screenshots
-[//]: <> ### App Themes
-[//]: <> | <img src="screenshots/home.jpeg" width="200"/> | <img src="screenshots/home_dark.jpeg" width="200"/> | <img src="screenshots/home_black.jpeg" width="200"/> |
-[//]: <> |:---:|:---:|:---:|
-[//]: <> |Clearly white| Kinda dark | Just black|
+<!-- ## Screenshots
+ ### App Themes
+ | <img src="screenshots/home.jpeg" width="200"/> | <img src="screenshots/home_dark.jpeg" width="200"/> | <img src="screenshots/home_black.jpeg" width="200"/> |
+ |:---:|:---:|:---:|
+ |Clearly white| Kinda dark | Just black|
 
 ### Player screen
 | <img src="screenshots/home.jpeg" width="200"/>| <img src="screenshots/list.jpeg" width="200"/>| <img src="screenshots/albums.jpeg" width="200"/>| <img src="screenshots/settings.jpeg" width="200"/>|
@@ -30,7 +30,7 @@
 
 | <img src="screenshots/no_classic.jpeg" width="200"/>	|<img src="screenshots/np_adaptive.jpeg" width="200"/>|   <img src="screenshots/np_blur.jpeg" width="200"/>  	|    <img src="screenshots/np_tiny.jpeg" width="200"/> 	|     <img src="screenshots/np_peak.jpeg" width="200"/>	|
 |:-----:	|:-----:	|:-----:	|:-----:	|:-----:	|
-| Classic 	| Adaptive 	| Blur 	| Tiny 	| Peak 	|
+| Classic 	| Adaptive 	| Blur 	| Tiny 	| Peak 	|  -->
 
 ### 🧭 Navigation never made easier 
 Self-explanatory interface without overloaded menus.
@@ -84,7 +84,7 @@ If you have any feature suggestions, please create an issue with detailed inform
 **Instagram:** https://instagram.com/retromusicapp  
 **Twitter:** https://twitter.com/retromusicapp/
 
-[//]: <> ### 🗂️ License
+### 🗂️ License
 
 DD Music Player is released under the MIT License 
 , which can be found [here](LICENSE.md)
