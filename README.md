@@ -4,12 +4,12 @@
 [![Generic badge](https://img.shields.io/badge/minSdkVersion-21-green.svg)](https://github.com/Harry20406/DD-Music-Player-)
 [![Generic badge](https://img.shields.io/badge/Download-Google_Play-green.svg)](https://github.com/Harry20406/DD-Music-Player-)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Harry20406/DD-Music-Player-/blob/main/LICENSE)
-<!--[![Telegram Follow](https://img.shields.io/twitter/follow/DDmusicplayer?style=social)](https://twitter.com/retromusicapp)-->
+<!--[![Telegram Follow](https://img.shields.io/twitter/follow/DDmusicplayer?style=social)](https://twitter.com/musicapp)-->
 
 
 ## 🆕 Material Design music player for Android music lovers
 
-## ⚠ Join [DD Music Player](https://t.me/retromusiclog) on Telegram for important updates.
+## ⚠ Join [DD Music Player](https://t.me/DDmusicplayerandroid) on Telegram for important updates.
 
 <!-- ## Screenshots
  ### App Themes
@@ -76,13 +76,13 @@ We are trying our best to bring you the best user experience. The app is regular
 Please read the FAQ [here](https://github.com/Harry20406/DD-Music-Player-/blob/main/FAQ.md)
 
 In any case, you find or notice any bugs please report them by
-sending us an [Instagram](). We will fix bugs as soon as
+sending us an [Telegram](https://t.me/DDMusicPlayerHelp). We will fix bugs as soon as
 possible.
 If you have any feature suggestions, please create an issue with detailed information.
 
 ### 🔗 Social links
-**Instagram:** https://instagram.com/retromusicapp  
-**Telegram:** https://twitter.com/retromusicapp/
+**Instagram:** https://www.instagram.com/ddmusicplayer/  
+**Telegram:** https://t.me/DDmusicplayerandroid
 
 ### 🗂️ License
 
