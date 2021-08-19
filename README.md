@@ -17,10 +17,10 @@
  |:---:|:---:|:---:|
  |Clearly white| Kinda dark | Just black|
 
-<!--### Player screen
+### Player screen
 | <img src="screenshots/home.jpeg" width="200"/>| <img src="screenshots/list.jpeg" width="200"/>| <img src="screenshots/albums.jpeg" width="200"/>| <img src="screenshots/settings.jpeg" width="200"/>|
 |:---:|:---:|:---:|:---:|
-| Home | Songs | Albums | Settings |  -->
+| Home | Songs | Albums | Settings | 
 
 ### 9+ Now playing themes
  
