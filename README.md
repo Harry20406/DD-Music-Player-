@@ -13,7 +13,7 @@
 
  ## Screenshots
  ### App Themes
- | <img src="https://github.com/Harry20406/DD-Music-Player-/blob/main/screenshots/home.jpg" width="200"/> | <img src="screenshots/home_dark.jpeg" width="200"/> | <img src="screenshots/home_black.jpeg" width="200"/> |
+ | <img src="https://github.com/Harry20406/DD-Music-Player-/blob/main/screenshots/home.jpg" width="200"/> | <img src="https://github.com/Harry20406/DD-Music-Player-/blob/main/screenshots/home_dark.jpeg" width="200"/> | <img src="https://github.com/Harry20406/DD-Music-Player-/blob/main/screenshots/home_black.jpeg" width="200"/> |
  |:---:|:---:|:---:|
  |Clearly white| Kinda dark | Just black|
 
