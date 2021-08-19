@@ -18,7 +18,7 @@
  |Clearly white| Kinda dark | Just black|
 
 ### Player screen
-| <img src="screenshots/home.jpg" width="200"/>| <img src="screenshots/list.jpeg" width="200"/>| <img src="screenshots/albums.jpeg" width="200"/>| <img src="screenshots/settings.jpeg" width="200"/>|
+| <img src="screenshots/home.jpg" width="200"/>| <img src="screenshots/list.jpg" width="200"/>| <img src="screenshots/albums.jpg" width="200"/>| <img src="screenshots/settings.jpeg" width="200"/>|
 |:---:|:---:|:---:|:---:|
 | Home | Songs | Albums | Settings | 
 
