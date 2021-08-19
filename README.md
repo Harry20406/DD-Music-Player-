@@ -20,7 +20,7 @@
 <!--### Player screen
 | <img src="screenshots/home.jpeg" width="200"/>| <img src="screenshots/list.jpeg" width="200"/>| <img src="screenshots/albums.jpeg" width="200"/>| <img src="screenshots/settings.jpeg" width="200"/>|
 |:---:|:---:|:---:|:---:|
-| Home | Songs | Albums | Settings |
+| Home | Songs | Albums | Settings |  -->
 
 ### 9+ Now playing themes
  
@@ -30,7 +30,7 @@
 
 | <img src="screenshots/no_classic.jpeg" width="200"/>	|<img src="screenshots/np_adaptive.jpeg" width="200"/>|   <img src="screenshots/np_blur.jpeg" width="200"/>  	|    <img src="screenshots/np_tiny.jpeg" width="200"/> 	|     <img src="screenshots/np_peak.jpeg" width="200"/>	|
 |:-----:	|:-----:	|:-----:	|:-----:	|:-----:	|
-| Classic 	| Adaptive 	| Blur 	| Tiny 	| Peak 	|  -->
+| Classic 	| Adaptive 	| Blur 	| Tiny 	| Peak 	|  
 
 ### 🧭 Navigation never made easier 
 Self-explanatory interface without overloaded menus.
