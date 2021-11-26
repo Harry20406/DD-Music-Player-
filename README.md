@@ -81,7 +81,7 @@ possible.
 If you have any feature suggestions, please create an issue with detailed information.
 
 ### 🔗 Social links
-**appstore:** Get DD Music Player App from [here](https://www.amazon.com/dp/B09D95675M/ref=apps_sf_sta)
+**appstore:** Get DD Music Player App from [here](https://www.amazon.com/dp/B09D95675M/ref=apps_sf_sta)                                                                         
 **Instagram:** https://www.instagram.com/ddmusicplayer/  
 **Telegram:** https://t.me/DDmusicplayerandroid/
 
