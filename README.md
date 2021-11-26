@@ -83,7 +83,7 @@ If you have any feature suggestions, please create an issue with detailed inform
 ### 🔗 Social links
 **Instagram:** https://www.instagram.com/ddmusicplayer/  
 **Telegram:** https://t.me/DDmusicplayerandroid
-**appstore:** Get DD Music Player from the Amazon Appstore. Check it out - https://www.amazon.com/dp/B09D95675M/ref=apps_sf_sta
+**appstore:** Get DD Music Player App from [here](https://www.amazon.com/dp/B09D95675M/ref=apps_sf_sta)
 
 ### 🗂️ License
 
