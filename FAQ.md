@@ -1,5 +1,5 @@
 Q: How do I get the beta version of DD Music Player?
-You can opt-in for the beta build by clicking on this link: https://play.google.com/apps/testing/code.name.monkey.retromusic
+You can opt-in for the beta build by clicking on this link: https://www.amazon.com/dp/B09D95675M/ref=apps_sf_sta
 
 Q: How to restore my purchases?
 Make sure to switch and use account in the Play Store app through which you purchased before installing DD Music Player. The account used to install the app is also used to purchase/restore the pro license.
